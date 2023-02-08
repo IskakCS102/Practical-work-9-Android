@@ -1,4 +1,4 @@
-Практическая работа №1
+Практическая работа №1<br>
 Искак Ислам Азаматулы / CS-202(c) <br>
 <br>
 ![1](https://user-images.githubusercontent.com/90903338/217574066-6af437bc-33a3-41e7-9b5e-bc7f2bac3e69.png) <br>
