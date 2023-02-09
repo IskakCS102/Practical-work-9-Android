@@ -1,8 +1,8 @@
 Практическая работа №1<br>
 Искак Ислам Азаматулы / CS-202(c) <br>
 <br>
-![1](https://user-images.githubusercontent.com/90903338/217574066-6af437bc-33a3-41e7-9b5e-bc7f2bac3e69.png) <br>
-При нажатие на дату, показывает сколько дней прошло с даты рождение, ваше Ф.И.О и неделю учебы. <br>
+![1](https://user-images.githubusercontent.com/90903338/217885018-30bd942f-0f0f-4c51-a95a-9a1bebc4322e.png) <br>
+При нажатие на дату, показывает сколько дней прошло с даты рождение, ваше Ф.И.О и неделю учебы и биоритмы. <br>
 <br>
-![2](https://user-images.githubusercontent.com/90903338/217574133-1e85fd30-7cfe-49ea-af70-78a0f2d40e5e.png) <br>
+![2](https://user-images.githubusercontent.com/90903338/217885088-b9413eb0-4de6-4ef4-8455-7ba75cd77db7.png) <br>
 Как выглядит окно настроек, где нужно указать дату рождения, и имя.
